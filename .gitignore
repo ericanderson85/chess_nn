@@ -1,0 +1,5 @@
+/.DS_Store
+/data.pt
+/data_1m.pt
+/lichess_db_eval.jsonl.zst
+/venv
